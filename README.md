@@ -1,4 +1,4 @@
-GenX - Blockchain-based Cryptocurrency Mining Platform
+> **GenX - Blockchain-based Cryptocurrency Mining Platform**
 GenX is a decentralized cryptocurrency mining platform built on the MERN stack and integrated with blockchain technology. It allows users to mine tokens, track their real-time balances, and earn rewards. This platform supports Phantom wallet integration for secure transactions and provides continuous mining to enhance user retention and engagement.
 
 Key Features:
