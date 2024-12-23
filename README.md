@@ -1,5 +1,4 @@
 
-
 # **GenX - Token Mining & Airdrop Manager**
 
 Welcome to **GenX**, an innovative platform designed for token mining, airdrop management, and gamified rewards, built on the Near Blockchain. This README will guide you through setting up the project and getting it up and running in no time!
