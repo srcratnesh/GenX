@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+
+  
+}
+"homepage": "https://<your-github-username>.github.io/<your-repository-name>"
+
+
+
